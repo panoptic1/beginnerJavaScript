@@ -39,6 +39,7 @@ console.log(fragment);
 
 console.log(fragment.querySelector('img'))
 
+//stick yr new html onto the DOM
 document.body.appendChild(fragment);
 
 
